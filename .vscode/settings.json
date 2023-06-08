@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "makefile": "makefile",
+        "*.jsx": "javascriptreact",
+        "stdbool.h": "c"
+    }
+}
