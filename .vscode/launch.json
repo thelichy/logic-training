@@ -2,18 +2,27 @@
     "version": "0.2.0",
     "configurations": [
         {
-            // Use IntelliSense to find out which attributes exist for C# debugging
-            // Use hover for the description of the existing attributes
-            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "sum_of_positive.Program",
+            "projectName": "logic-training_d45b39cc"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "multiples_of_3_5.Program",
+            "projectName": "logic-training_d45b39cc"
+        },
+        {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/contains_duplicate/bin/Debug/net7.0/contains_duplicate.dll",
             "args": [],
             "cwd": "${workspaceFolder}/contains_duplicate",
-            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
         },
