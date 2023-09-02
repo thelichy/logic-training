@@ -23,6 +23,11 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 
 ---
 
+## Reversed Strings
+Complete the solution so that it reverses the string passed into it.
+
+---
+
 ## Sum of positives
 You get an array of numbers, return the sum of all of the positives ones.
 
@@ -32,3 +37,7 @@ Note: if there is nothing to sum, the sum is default to `0`.
 
 ---
 
+## Who likes it?
+You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
+
+---
