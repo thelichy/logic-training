@@ -48,6 +48,11 @@ Complete the solution so that it reverses the string passed into it.
 
 ---
 
+### Strings, strings, strings
+After you recovered toString() for booleans, numbers and numerical arrays last time, you now realise that because , you have to be able to convert complex arrays containing any and all data types into strings too!
+
+---
+
 ## Sum of positives
 You get an array of numbers, return the sum of all of the positives ones.
 
