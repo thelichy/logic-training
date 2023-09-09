@@ -3,5 +3,9 @@
         "makefile": "makefile",
         "*.jsx": "javascriptreact",
         "stdbool.h": "c"
-    }
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none"
 }

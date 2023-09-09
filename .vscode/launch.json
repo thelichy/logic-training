@@ -5,6 +5,13 @@
             "type": "java",
             "name": "Program",
             "request": "launch",
+            "mainClass": "is_a_number_prime.Program",
+            "projectName": "logic-training_a7c63dee"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
             "mainClass": "sum_of_positive.Program",
             "projectName": "logic-training_d45b39cc"
         },

@@ -12,6 +12,13 @@ Your task is to make a function that can take any non-negative integer as an arg
 
 ---
 
+## Is a number prime?
+Define a function that takes an integer argument and returns a logical value true or false depending on if the integer is a prime.
+
+Per Wikipedia, a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+---
+
 ## Jaden casing
 Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word. For simplicity, you'll have to capitalize each word, check out how contractions are expected to be in the example below.
 
