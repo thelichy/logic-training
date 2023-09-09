@@ -59,6 +59,10 @@ Given an array of ones and zeroes, convert the equivalent binary value to an int
 
 Eg: [0, 0, 0, 1] is treated as 0001 which is the binary representation of 1.
 
+---
+
+## Persistent bugger
+Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
 
 ---
 
