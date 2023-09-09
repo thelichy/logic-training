@@ -55,7 +55,12 @@ Complete the solution so that it reverses the string passed into it.
 
 ---
 
-### Strings, strings, strings
+## Stop spinning my words
+Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
+
+---
+
+## Strings, strings, strings
 After you recovered toString() for booleans, numbers and numerical arrays last time, you now realise that because , you have to be able to convert complex arrays containing any and all data types into strings too!
 
 ---
