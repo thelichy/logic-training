@@ -90,6 +90,11 @@ Note: if there is nothing to sum, the sum is default to `0`.
 
 ---
 
+## Unique in order
+Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
+
+---
+
 ## Weird string case
 Write a function that accepts a string, and returns the same string with all even indexed characters in each word upper cased, and all odd indexed characters in each word lower cased. The indexing just explained is zero based, so the zero-ith index is even, therefore that character should be upper cased and you need to start over for each word.
 
