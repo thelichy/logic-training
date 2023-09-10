@@ -101,3 +101,8 @@ The passed in string will only consist of alphabetical characters and spaces(' '
 You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
 
 ---
+
+## Write Number in Expanded Form
+You will be given a number and you will need to return it as a string in Expanded Form
+
+---
