@@ -79,6 +79,11 @@ Complete the solution so that it reverses the string passed into it.
 
 ---
 
+## Simple pig latin
+Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+
+---
+
 ## Stop spinning my words
 Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
 
