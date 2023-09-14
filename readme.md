@@ -79,6 +79,11 @@ Complete the solution so that it reverses the string passed into it.
 
 ---
 
+## RGB to Hex conversion
+The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.
+
+---
+
 ## Simple pig latin
 Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
 
